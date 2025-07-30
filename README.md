@@ -7,4 +7,6 @@
  hello from  `here`
 
 # DASHBOARD
- ![dASHBOARD](Mercy_Mobile_HubDashboard.jpg)
+ ![dASHBOARD](Mercy_Mobile_Hub_Dashboard.jpg)
+
+ [Register now](https://facebook.com)
